@@ -5,6 +5,8 @@ Prediction of the forest cover type (the predominant kind of tree cover) from st
 
 This study area includes four wilderness areas located in the Roosevelt National Forest of northern Colorado. These areas represent forests with minimal human-caused disturbances, so that existing forest cover types are more a result of ecological processes rather than forest management practices.
 
+This dataset is part of the UCI Machine Learning Repository, and the original source can be found at https://archive.ics.uci.edu/ml/datasets/Covertype. The original database owners are Jock A. Blackard, Dr. Denis J. Dean, and Dr. Charles W. Anderson of the Remote Sensing and GIS Program at Colorado State University.
+
 **Forest_Cover_Type Prediction:**
 
 **Exploratory Data Analysis** of 
